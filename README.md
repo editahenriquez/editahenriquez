@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a fairly courios person, developer who loves to expand my knowledge and enjoy building amazing and meaninful things.
+I'm a fairly courios person who loves to expand my knowledge and enjoy building amazing and meaninful things.
 I specialize in web development full stack.
 
 - 🌱 Currently learning JavaScript and React
