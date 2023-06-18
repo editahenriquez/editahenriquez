@@ -18,7 +18,7 @@ I specialize in web development full stack.
 ## Projects
 
 - [Fruit Blog](https://editahenriquez.github.io/fruitblog/) - HTML & CSS website where you can explore information about fruits.
-
+- [Hang Man Game](https://hangman-game-gm.netlify.app/) - React game where you can attempt to guess a hidden word by suggesting letters.
 ## Let's Collaborate
 
 - 💬🌟 Let's connect and discuss ideas, collaborate on projects, or simply share our interest for technology.
