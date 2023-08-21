@@ -5,7 +5,7 @@
 I'm a fairly courios person who loves to expand my knowledge and enjoy building amazing and meaninful things.
 I specialize in web development full stack.
 
-- 🌱 Currently learning JavaScript and React
+- 🌱 Currently learning React
 - 🎯 My goal is to contribute to projects that make a positive impact and inspire others.
 
 ## Skills
@@ -14,6 +14,8 @@ I specialize in web development full stack.
 - CSS
 - Git
 - GitHub
+- JavaScript
+- Typescript
 
 ## Projects
 
