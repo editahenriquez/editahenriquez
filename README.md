@@ -1,4 +1,4 @@
-# Hello there! 😊👋 I'm [Edita Henriquez]
+# Hello there! 😊👋 I'm Edita Henriquez
 
 Passionate and creative, I'm on a mission to build meaningful projects and solutions that enhance people's lives. The joy of creating impactful solutions is what drives me.
 
