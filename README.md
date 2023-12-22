@@ -1,27 +1,24 @@
-# Hello, I'm Edita Henriquez 👋
+# Hello there! 😊👋 I'm [Edita Henriquez]
 
-## About Me
+Passionate and creative, I'm on a mission to build meaningful projects and solutions that enhance people's lives. The joy of creating impactful solutions is what drives me.
 
-I'm a fairly courios person who loves to expand my knowledge and enjoy building amazing and meaninful things.
-I specialize in web development full stack.
+🚀 I believe in the beauty of balance. When I'm not coding, you'll find me on walks, exploring new technologies, diving into books and audiobooks, enjoying global music, or sharing a meal with friends.
 
-- 🌱 Currently learning React
-- 🎯 My goal is to contribute to projects that make a positive impact and inspire others.
+🌟 My Skills:
 
-## Skills
+🔧 Visual Studio Code | Git | GitHub
+🌐 HTML | CSS | JavaScript | TypeScript
+⚙️ SOLID Principles | Clean Code
+⚛️ React | Next.js | Tailwind CSS | Material-UI
+🚀 Node.js | Express.js | Docker
+🛢️ SQL Server | PostgreSQL | MySQL | SQL Anywhere
+📐 Power Design | Power Builder
 
-- HTML5
-- CSS
-- Git
-- GitHub
-- JavaScript
-- Typescript
+🤝 Let's Collaborate:
 
-## Projects
+💬🌟 Let's connect and discuss ideas, collaborate on projects, or simply share our interest in technology.
 
-- [Fruit Blog](https://editahenriquez.github.io/fruitblog/) - HTML & CSS website where you can explore information about fruits.
-- [Hang Man Game](https://hangman-game-gm.netlify.app/) - React game where you can attempt to guess a hidden word by suggesting letters.
-- [Blackjack Game](https://editahenriquez.github.io/blackjack-game/) - HTML, CSS & JS game where the goal is to reach 21 without busting.
-## Let's Collaborate
+📧 [edita.henriquezv@gmail.com]
+🔗 [https://github.com/editahenriquez]
 
-- 💬🌟 Let's connect and discuss ideas, collaborate on projects, or simply share our interest for technology.
+Looking forward to creating something amazing together! ✨
