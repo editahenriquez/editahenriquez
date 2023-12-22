@@ -18,7 +18,7 @@ Passionate and creative, I'm on a mission to build meaningful projects and solut
 
 💬🌟 Let's connect and discuss ideas, collaborate on projects, or simply share our interest in technology.
 
-📧 [edita.henriquezv@gmail.com]
-🔗 [https://github.com/editahenriquez]
+📧 edita.henriquezv@gmail.com
+🔗 https://github.com/editahenriquez
 
 Looking forward to creating something amazing together! ✨
