@@ -2,7 +2,7 @@
 
 Passionate and creative, I'm on a mission to build meaningful projects and solutions that enhance people's lives. The joy of creating impactful solutions is what drives me.
 
-🚀 I believe in the beauty of balance. When I'm not coding, you'll find me on walks, exploring new technologies, diving into books and audiobooks, enjoying global music, or sharing a meal with friends.
+🌳 I believe in the beauty of balance. When I'm not coding, you'll find me on walks, exploring new technologies, diving into books and audiobooks, enjoying global music, or sharing a meal with friends.
 
 🌟 My Skills:
 
