@@ -12,7 +12,7 @@ Passionate and creative, I'm on a mission to build meaningful projects and solut
 ⚛️ React | Next.js | Tailwind CSS | Material-UI
 🚀 Node.js | Express.js | Docker
 🛢️ SQL Server | PostgreSQL | MySQL | SQL Anywhere
-📐 Power Design | Power Builder
+📐 Power Designer------------- | Power Builder
 
 🔗 Check out my portfolio: https://github.com/editahenriquez
 
