@@ -14,7 +14,7 @@ Passionate and creative, I'm on a mission to build meaningful projects and solut
 🛢️ SQL Server | PostgreSQL | MySQL | SQL Anywhere
 📐 Power Designer | Power Builder
 
-🔗 Check out my portfolio: https://github.com/editahenriquez
+🌐 Check out my portfolio: https://github.com/editahenriquez
 
 🤝 Let's Collaborate:
 
