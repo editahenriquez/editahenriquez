@@ -1,4 +1,4 @@
-# Hello there! 😊👋 I'm Edita Henriquez
+# Hello! 😊👋 I'm <span style="color: #ff3366;">Edita</span>
 
 Passionate and creative, I'm on a mission to build meaningful projects and solutions that enhance people's lives. The joy of creating impactful solutions is what drives me.
 
