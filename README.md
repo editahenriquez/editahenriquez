@@ -14,9 +14,7 @@ I'm on a mission to build meaningful projects and solutions that enhance people'
 🛢️ SQL Server | PostgreSQL | MySQL | SQL Anywhere
 🗄️ Power Designer | Power Builder
 
-
 🌐 Check out my personal [Portfolio](https://editahenriquez.vercel.app)
-
 
 🤝 Let's Collaborate:
 
