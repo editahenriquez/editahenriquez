@@ -5,7 +5,7 @@ I also enjoy exploring new technologies and maintaining a healthy work-life bala
 
 Skilled in
 🔧 Visual Studio Code | Git | GitHub 🌐 HTML | CSS | JavaScript | TypeScript ⚙️ SOLID Principles | Clean Code ⚛️ React | Next.js | Tailwind CSS | Material-UI 🚀 Node.js | Express.js | Docker 🛢️ SQL Server | PostgreSQL | MySQL | SQL Anywhere 🗄️ Power Designer | Power Builder
-🌐 Check out my personal Portfolio
+🌐 Check out my personal [Portfolio]
 
 🤝 Let's Collaborate:
 
