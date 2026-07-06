@@ -2,6 +2,6 @@
 
 Passionate about building solutions that enhance people's lives.
 
-🌐 [aniramiv.com](https://www.aniramiv.com) | 💼 [LinkedIn](https://www.linkedin.com/in/edita-henriquez)
+💼 [LinkedIn](https://www.linkedin.com/in/edita-henriquez)  | 🌐 [aniramiv.com](https://www.aniramiv.com)
 
-🤝 Let's Connect
+🤝 Let's Connect!
